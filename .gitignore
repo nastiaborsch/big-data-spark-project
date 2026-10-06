@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Data
+data/
+datasets/
+
+# Results
+output/
+results/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
